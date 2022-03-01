@@ -12,8 +12,8 @@ Fav. file ext.: `.js` `.ts` `.php` `.sql` `.html` `.css`
 DBMS daily: `PostgreSQL`  
 Tech daily: `REST` `Cron`  
 Code daily: `NodeJS` `NextJS` `React` `Vue` `jQuery` `Prisma` `php-fpm` `php-cli` `mPDF`  
-Workspace: `Linux` `VSCode+ext` `Chrome-ext` `Valentina` `Postman` `Git+Gitlab` `Telegram`  
-Any touched: `MySQL` `ClickHouse` `SqLite` `Composer` `CodeIgniter` `Smarty` `Laravel` `Express` `Angular` `GO` `C#`
+Workspace: `Linux` `VSCode+ext` `Chrome-ext` `VStudio` `Postman` `Git(lab)` `TG`  
+Any touched: `MySQL` `ClickHouse` `SqLite` `Composer` `CodeIgniter` `Smarty` `Laravel` `Express` `Angular` `GO` `C#` `TypeScript` `Redis` `Memcache`
 
 ---
 
