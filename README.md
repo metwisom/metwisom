@@ -1,7 +1,4 @@
 
-
-# 👋@metwisom   <img align='right' src="https://komarev.com/ghpvc/?username=metwisom&label=Profile%20views&color=0e75b6&style=flat" alt="metwisom" />
-
 Fav. ext.: `.js` `.ts` `.php` `.sql` `.html` `.css`  
 DBMS daily: `PostgreSQL`  
 Tech daily: `REST` `Cron`  
