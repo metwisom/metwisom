@@ -4,7 +4,7 @@ DBMS daily: `PostgreSQL`
 Tech daily: `REST` `Cron`  
 Code daily: `NodeJS` `NextJS` `React` `Vue` `jQuery` `Prisma` `php-fpm` `php-cli` `mPDF`  
 Workspace: `Linux` `VSCode+ext` `Chrome-ext` `VStudio` `Postman` `Git(lab)` `TG`  
-Any touched: `MySQL` `ClickHouse` `SqLite` `Composer` `CodeIgniter` `Smarty` `Laravel` `Express` `Angular` `GO` `C#` `TypeScript` `Redis` `Memcache`
+Any touched: `MySQL` `ClickHouse` `SQLite` `Composer` `CodeIgniter` `Smarty` `Laravel` `Express` `Angular` `GO` `C#` `TypeScript` `Redis` `Memcache`
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metwisom" alt="metwisom" /></a> </p-->
 
