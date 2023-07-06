@@ -1,5 +1,5 @@
 
-Fav. ext.: `.js` `.ts` `.php` `.sql` `.html` `.css`  
+Fav. ext.: `.js` `.ts` `.php` `.sql` `.html` `.css` `.go`  
 DBMS daily: `PostgreSQL`  
 Tech daily: `REST` `Cron`  
 Code daily: `NodeJS` `NextJS` `React` `Vue` `jQuery` `Prisma` `php-fpm` `php-cli` `mPDF`  
