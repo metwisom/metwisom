@@ -1,10 +1,10 @@
 
-Fav. ext.: `.js` `.ts` `.php` `.sql` `.html` `.css` `.go`  
-DBMS daily: `PostgreSQL`  
-Tech daily: `REST` `Cron`  
-Code daily: `NodeJS` `NextJS` `React` `Vue` `jQuery` `Prisma` `php-fpm` `php-cli` `mPDF`  
-Workspace: `Linux` `VSCode+ext` `Chrome-ext` `VStudio` `Postman` `Git(lab)` `TG`  
-Any touched: `MySQL` `ClickHouse` `SQLite` `Composer` `CodeIgniter` `Smarty` `Laravel` `Express` `Angular` `GO` `C#` `TypeScript` `Redis` `Memcache`
+`.js` `.ts` `.php` `.sql` `.html` `.go`  
+`PgSQL` `MySQL` `ClickHouse` `SQLite` `Redis` `Memcache`
+`REST` `Cron`  
+`NodeJS` `NextJS` `React` `Vue` `Angular` `Express` `jQuery` `Prisma` `php-fpm` `php-cli` `mPDF` `Composer` `CodeIgniter` `Smarty` `Laravel`
+`Linux` `VSCode` `Chrome` `VStudio` `Postman` `Git(lab/hub)` `TG`
+`C#`
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metwisom" alt="metwisom" /></a> </p-->
 
